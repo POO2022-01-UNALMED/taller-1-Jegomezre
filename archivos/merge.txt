@@ -1,3 +1,5 @@
 Jerónimo Gómez Restrepo
 20 años
 Adquirir las bases necesarias de la POO y así poder añadir una nueva habilidad a mi catálogo como programador.
+Ahora si dejó hacer el commit con la carpeta, pues ya no está vacía.
+Porque se pueden crear conflictos con las versiones y se puede perder información de una version a otra.
