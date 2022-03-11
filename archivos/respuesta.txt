@@ -1,0 +1,1 @@
+Al hacer commit solo con la creación de la carpeta, no dejaba. Era como si no hubiera realizado ningún cambio.
